@@ -1,4 +1,4 @@
-# Blinking-LED-Face
+# Blinking LED Face
 Arduino code/schematic for a blinking LED face
 
 ## How it works
